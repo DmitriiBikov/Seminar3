@@ -1,0 +1,16 @@
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\bin\Debug\net6.0\Task19.exe
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\bin\Debug\net6.0\Task19.deps.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\bin\Debug\net6.0\Task19.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\bin\Debug\net6.0\ref\Task19.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\bin\Debug\net6.0\Task19.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.GlobalUsings.g.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\ref\Task19.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar3\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
